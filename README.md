@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 
 # Read Book Lists
 <!-- READ-BOOK-LIST:START -->
-
+- [东京贫苦女子](/book/2022052701/)
+- [最好的决定](/book/2022030801/)
+- [圈外编辑](/book/2022030701/)
 <!-- READ-BOOK-LIST:END -->

@@ -20,5 +20,5 @@ jobs:
       - name: Pull in github page articles
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "ARTICLE-LIST"
-          feed_list: "https://deletefromuser.github.io/article/index.xml"
+          comment_tag_name: "READ-BOOK-LIST"
+          feed_list: "https://deletefromuser.github.io/book/index.xml"

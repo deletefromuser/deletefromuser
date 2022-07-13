@@ -11,7 +11,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in dev.to posts
+      - name: Pull in github page posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://deletefromuser.github.io/index.xml"
+      - name: Pull in github page articles
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "ARTICLE-LIST"
+          feed_list: "https://deletefromuser.github.io/article/index.xml"

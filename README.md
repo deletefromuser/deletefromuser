@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 
 # Articles
 <!-- ARTICLE-LIST:START -->
-
+- [eclipse中一键全部展开目录树](/article/20190120/)
+- [使用thymeleaf和spring security提供的csrf方法](/article/20190113/)
+- [如何成為一個快樂的人](/article/2017031401/)
+- [編程代碼風格相關文章](/article/2017031203/)
 <!-- ARTICLE-LIST:END -->
 
 # Read Book Lists

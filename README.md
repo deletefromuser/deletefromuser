@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 # Read Book Lists
 <!-- READ-BOOK-LIST:START -->
-- [东京贫困女子](https://deletefromuser.github.io/book/2022052701/)
-- [我能有什么坏心思呢](https://deletefromuser.github.io/book/2022052301/)
-- [最好的决定](https://deletefromuser.github.io/book/2022030801/)
-- [圈外编辑](https://deletefromuser.github.io/book/2022030701/)
+- [东京贫困女子](https://deletefromuser.github.io/read/2022052701/)
+- [我能有什么坏心思呢](https://deletefromuser.github.io/read/2022052301/)
+- [最好的决定](https://deletefromuser.github.io/read/2022030801/)
+- [圈外编辑](https://deletefromuser.github.io/read/2022030701/)
 <!-- READ-BOOK-LIST:END -->

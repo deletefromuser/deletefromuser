@@ -21,4 +21,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "READ-BOOK-LIST"
-          feed_list: "https://deletefromuser.github.io/book/index.xml"
+          feed_list: "https://deletefromuser.github.io/read/index.xml"

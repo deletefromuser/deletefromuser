@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 # Read Book Lists
 <!-- READ-BOOK-LIST:START -->
+- [互联网与中国后现代性呓语](https://deletefromuser.github.io/read/2022071101/)
 - [东京贫困女子](https://deletefromuser.github.io/read/2022052701/)
 - [我能有什么坏心思呢](https://deletefromuser.github.io/read/2022052301/)
 - [最好的决定](https://deletefromuser.github.io/read/2022030801/)

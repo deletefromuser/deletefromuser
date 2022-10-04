@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [那些古怪又让人忧心的问题](https://deletefromuser.github.io/read/2022092901/)
 - [人生十二法则](https://deletefromuser.github.io/read/2022082401/)
 - [引用cdn静态资源时添加哈希值验证防篡改](https://deletefromuser.github.io/web/2022071101/)
 - [互联网与中国后现代性呓语](https://deletefromuser.github.io/read/2022071101/)
 - [删除 git 远程仓库中忘记加入 .gitignore 的资源](https://deletefromuser.github.io/git/2022071001/)
-- [win10 开始菜单去掉web搜索结果](https://deletefromuser.github.io/problem/2022070801/)
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

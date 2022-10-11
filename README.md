@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 # Read Book Lists
 <!-- READ-BOOK-LIST:START -->
+- [岩波日本史](https://deletefromuser.github.io/read/2022101001/)
 - [那些古怪又让人忧心的问题](https://deletefromuser.github.io/read/2022092901/)
 - [人生十二法则](https://deletefromuser.github.io/read/2022082401/)
 - [互联网与中国后现代性呓语](https://deletefromuser.github.io/read/2022071101/)
 - [东京贫困女子](https://deletefromuser.github.io/read/2022052701/)
-- [我能有什么坏心思呢](https://deletefromuser.github.io/read/2022052301/)
 <!-- READ-BOOK-LIST:END -->

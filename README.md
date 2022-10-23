@@ -22,9 +22,5 @@ Here are some ideas to get you started:
 
 # Read Book Lists
 <!-- READ-BOOK-LIST:START -->
-- [岩波日本史](https://deletefromuser.github.io/read/2022101001/)
-- [那些古怪又让人忧心的问题](https://deletefromuser.github.io/read/2022092901/)
-- [人生十二法则](https://deletefromuser.github.io/read/2022082401/)
-- [互联网与中国后现代性呓语](https://deletefromuser.github.io/read/2022071101/)
-- [东京贫困女子](https://deletefromuser.github.io/read/2022052701/)
+<li>2022-10-10 - <a href="https://deletefromuser.github.io/read/2022101001/" rel="nofollow">岩波日本史</a></li><li>2022-09-29 - <a href="https://deletefromuser.github.io/read/2022092901/" rel="nofollow">那些古怪又让人忧心的问题</a></li><li>2022-08-24 - <a href="https://deletefromuser.github.io/read/2022082401/" rel="nofollow">人生十二法则</a></li><li>2022-07-11 - <a href="https://deletefromuser.github.io/read/2022071101/" rel="nofollow">互联网与中国后现代性呓语</a></li><li>2022-05-27 - <a href="https://deletefromuser.github.io/read/2022052701/" rel="nofollow">东京贫困女子</a></li>
 <!-- READ-BOOK-LIST:END -->

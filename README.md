@@ -25,4 +25,10 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists
-<!-- READ-BOOK-LIST:START -->- 2022-10-10 - [岩波日本史](https://deletefromuser.github.io/read/2022101001/)- 2022-09-29 - [那些古怪又让人忧心的问题](https://deletefromuser.github.io/read/2022092901/)- 2022-08-24 - [人生十二法则](https://deletefromuser.github.io/read/2022082401/)- 2022-07-11 - [互联网与中国后现代性呓语](https://deletefromuser.github.io/read/2022071101/)- 2022-05-27 - [东京贫困女子](https://deletefromuser.github.io/read/2022052701/)<!-- READ-BOOK-LIST:END -->
+<!-- READ-BOOK-LIST:START -->
+- [岩波日本史](https://deletefromuser.github.io/read/2022101001/)
+- [那些古怪又让人忧心的问题](https://deletefromuser.github.io/read/2022092901/)
+- [人生十二法则](https://deletefromuser.github.io/read/2022082401/)
+- [互联网与中国后现代性呓语](https://deletefromuser.github.io/read/2022071101/)
+- [东京贫困女子](https://deletefromuser.github.io/read/2022052701/)
+<!-- READ-BOOK-LIST:END -->

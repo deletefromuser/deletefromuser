@@ -17,7 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://deletefromuser.github.io/index.xml"
-          template: \u2010 $date - [$title]($url)
+          template: \- $date - [$title]($url)
           date_format: yyyy-mm-dd
           tag_post_pre_newline: true
       - name: Pull in github page articles
@@ -25,5 +25,5 @@ jobs:
         with:
           comment_tag_name: "READ-BOOK-LIST"
           feed_list: "https://deletefromuser.github.io/read/index.xml"
-          template: \u2010 $date - [$title]($url)
+          template: \- $date - [$title]($url)
           date_format: yyyy-mm-dd

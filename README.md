@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [岩波日本史](https://deletefromuser.github.io/read/2022101001/)
-- [2022年4季度](https://deletefromuser.github.io/watch/2022100101/)
-- [那些古怪又让人忧心的问题](https://deletefromuser.github.io/read/2022092901/)
-- [人生十二法则](https://deletefromuser.github.io/read/2022082401/)
-- [引用cdn静态资源时添加哈希值验证防篡改](https://deletefromuser.github.io/web/2022071101/)
+<li>2022-10-10 - <a href="https://deletefromuser.github.io/read/2022101001/" rel="nofollow">岩波日本史</a></li><li>2022-10-10 - <a href="https://deletefromuser.github.io/watch/2022100101/" rel="nofollow">2022年4季度</a></li><li>2022-09-29 - <a href="https://deletefromuser.github.io/read/2022092901/" rel="nofollow">那些古怪又让人忧心的问题</a></li><li>2022-08-24 - <a href="https://deletefromuser.github.io/read/2022082401/" rel="nofollow">人生十二法则</a></li><li>2022-07-11 - <a href="https://deletefromuser.github.io/web/2022071101/" rel="nofollow">引用cdn静态资源时添加哈希值验证防篡改</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

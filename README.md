@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2022-10-10 - <a href="https://deletefromuser.github.io/read/2022101001/" rel="nofollow">岩波日本史</a></li><li>2022-10-10 - <a href="https://deletefromuser.github.io/watch/2022100101/" rel="nofollow">2022年4季度</a></li><li>2022-09-29 - <a href="https://deletefromuser.github.io/read/2022092901/" rel="nofollow">那些古怪又让人忧心的问题</a></li><li>2022-08-24 - <a href="https://deletefromuser.github.io/read/2022082401/" rel="nofollow">人生十二法则</a></li><li>2022-07-11 - <a href="https://deletefromuser.github.io/web/2022071101/" rel="nofollow">引用cdn静态资源时添加哈希值验证防篡改</a></li>
+<li>2022-11-06 - <a href="https://deletefromuser.github.io/bash/2022110602/" rel="nofollow">linux下设置定时任务</a></li><li>2022-11-06 - <a href="https://deletefromuser.github.io/problem/2022110603/" rel="nofollow">oracle安装后连接问题</a></li><li>2022-11-06 - <a href="https://deletefromuser.github.io/problem/2022110604/" rel="nofollow">virtualbox虚拟机启用宿主机摄像头</a></li><li>2022-11-06 - <a href="https://deletefromuser.github.io/sql/2022110605/" rel="nofollow">oracle常用命令</a></li><li>2022-11-06 - <a href="https://deletefromuser.github.io/sql/2022110601/" rel="nofollow">缩小oracle数据库内存占用</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

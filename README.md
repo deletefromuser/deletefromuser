@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2022-11-08 - <a href="https://deletefromuser.github.io/problem/2022110801/" rel="nofollow">weblogic console忘记密码的解决办法</a></li><li>2022-11-06 - <a href="https://deletefromuser.github.io/bash/2022110602/" rel="nofollow">linux下设置定时任务</a></li><li>2022-11-06 - <a href="https://deletefromuser.github.io/problem/2022110603/" rel="nofollow">oracle安装后连接问题</a></li><li>2022-11-06 - <a href="https://deletefromuser.github.io/problem/2022110604/" rel="nofollow">virtualbox虚拟机启用宿主机摄像头</a></li><li>2022-11-06 - <a href="https://deletefromuser.github.io/sql/2022110605/" rel="nofollow">oracle常用命令</a></li>
+<li>2022-11-10 - <a href="https://deletefromuser.github.io/bash/2022111001/" rel="nofollow">linux 命令memo</a></li><li>2022-11-10 - <a href="https://deletefromuser.github.io/java/2022111002/" rel="nofollow">linux下让Java程序运行在后台</a></li><li>2022-11-08 - <a href="https://deletefromuser.github.io/problem/2022110901/" rel="nofollow">利用RSS自动下载Torrent</a></li><li>2022-11-08 - <a href="https://deletefromuser.github.io/problem/2022110801/" rel="nofollow">weblogic console忘记密码的解决办法</a></li><li>2022-11-06 - <a href="https://deletefromuser.github.io/bash/2022110602/" rel="nofollow">linux下设置定时任务</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

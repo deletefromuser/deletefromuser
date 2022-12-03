@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2022-11-26 - <a href="https://deletefromuser.github.io/tip/2022112601/" rel="nofollow">使用命令行上传文件到共享网站file.io</a></li><li>2022-11-15 - <a href="https://deletefromuser.github.io/web/2022111501/" rel="nofollow">SpringBoot开发memo</a></li><li>2022-11-14 - <a href="https://deletefromuser.github.io/web/2022111402/" rel="nofollow">JavaScript POST方式打开新窗口</a></li><li>2022-11-10 - <a href="https://deletefromuser.github.io/bash/2022111001/" rel="nofollow">linux 命令memo</a></li><li>2022-11-10 - <a href="https://deletefromuser.github.io/java/2022111002/" rel="nofollow">linux下让Java程序运行在后台</a></li>
+<li>2022-12-03 - <a href="https://deletefromuser.github.io/bash/2022120301/" rel="nofollow">ubuntu中把desktop文件的程序固定到任务栏</a></li><li>2022-11-26 - <a href="https://deletefromuser.github.io/tip/2022112601/" rel="nofollow">使用命令行上传文件到共享网站file.io</a></li><li>2022-11-15 - <a href="https://deletefromuser.github.io/web/2022111501/" rel="nofollow">SpringBoot开发memo</a></li><li>2022-11-14 - <a href="https://deletefromuser.github.io/web/2022111402/" rel="nofollow">JavaScript POST方式打开新窗口</a></li><li>2022-11-10 - <a href="https://deletefromuser.github.io/bash/2022111001/" rel="nofollow">linux 命令memo</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

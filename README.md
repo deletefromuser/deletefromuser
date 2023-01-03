@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2022-12-19 - <a href="https://deletefromuser.github.io/java/2022121901/" rel="nofollow">java删除文件夹</a></li><li>2022-12-14 - <a href="https://deletefromuser.github.io/tip/2022121402/" rel="nofollow">Chrome中运行&amp;保存JS代码</a></li><li>2022-12-14 - <a href="https://deletefromuser.github.io/web/2022121401/" rel="nofollow">JS库使用问题汇总</a></li><li>2022-12-10 - <a href="https://deletefromuser.github.io/life/2022121001/" rel="nofollow">空气炸锅菜谱</a></li><li>2022-12-06 - <a href="https://deletefromuser.github.io/tip/2022120601/" rel="nofollow">工作笔记2016-2021</a></li>
+<li>2022-12-21 - <a href="https://deletefromuser.github.io/prob/2022122101/" rel="nofollow">Ubuntu 20.04下tracker-miner-fs进程占用大量内存和cpu</a></li><li>2022-12-21 - <a href="https://deletefromuser.github.io/bash/2022122101/" rel="nofollow">ubuntu中在新命令行窗口执行命令</a></li><li>2022-12-19 - <a href="https://deletefromuser.github.io/java/2022121901/" rel="nofollow">java删除文件夹</a></li><li>2022-12-14 - <a href="https://deletefromuser.github.io/tip/2022121402/" rel="nofollow">Chrome中运行&amp;保存JS代码</a></li><li>2022-12-14 - <a href="https://deletefromuser.github.io/web/2022121401/" rel="nofollow">JS库使用问题汇总</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

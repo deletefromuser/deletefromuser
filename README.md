@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 # Read Book Lists
 <!-- READ-BOOK-LIST:START -->
-<li>2022-02-01 - <a href="https://deletefromuser.github.io/read/2022030701/" rel="nofollow">2022年读书记录</a></li>
+<li>2023-01-29 - <a href="https://deletefromuser.github.io/read/2023012901/" rel="nofollow">2023年读书记录</a></li><li>2022-02-01 - <a href="https://deletefromuser.github.io/read/2022030701/" rel="nofollow">2022年读书记录</a></li>
 <!-- READ-BOOK-LIST:END -->

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2023-02-05 - <a href="https://deletefromuser.github.io/web/2023020501/" rel="nofollow">将SpringBoot应用部署到docker</a></li><li>2023-01-29 - <a href="https://deletefromuser.github.io/read/2023012901/" rel="nofollow">2023年读书记录</a></li><li>2023-01-07 - <a href="https://deletefromuser.github.io/life/2023010101/" rel="nofollow">life hack</a></li><li>2023-01-07 - <a href="https://deletefromuser.github.io/watch/2023010101/" rel="nofollow">2023年1季度</a></li><li>2022-12-21 - <a href="https://deletefromuser.github.io/prob/2022122101/" rel="nofollow">Ubuntu 20.04下tracker-miner-fs进程占用大量内存和cpu</a></li>
+<li>2023-02-05 - <a href="https://deletefromuser.github.io/web/2023020501/" rel="nofollow">将SpringBoot应用部署到docker</a></li><li>2023-01-29 - <a href="https://deletefromuser.github.io/read/2023012901/" rel="nofollow">2023年读书记录</a></li><li>2023-01-07 - <a href="https://deletefromuser.github.io/life/2023010101/" rel="nofollow">life hack</a></li><li>2023-01-07 - <a href="https://deletefromuser.github.io/life/2023020801/" rel="nofollow">一加手机使用问题</a></li><li>2023-01-07 - <a href="https://deletefromuser.github.io/watch/2023010101/" rel="nofollow">2023年1季度</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

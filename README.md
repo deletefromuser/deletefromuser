@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2023-04-25 - <a href="https://deletefromuser.github.io/web/2023042501/" rel="nofollow">spring boot开发记录</a></li><li>2023-04-25 - <a href="https://deletefromuser.github.io/tip/2023042503/" rel="nofollow">使用mkvtoolnix批量去除视频外挂字幕</a></li><li>2023-04-25 - <a href="https://deletefromuser.github.io/web/2023042502/" rel="nofollow">使用nginx和ssh tunneling实现通过公网ip访问本地计算机</a></li><li>2023-02-18 - <a href="https://deletefromuser.github.io/java/2023021802/" rel="nofollow">java中不常用的语法</a></li><li>2023-02-17 - <a href="https://deletefromuser.github.io/tip/2023021801/" rel="nofollow">使用js手动post数据</a></li>
+<li>2023-04-27 - <a href="https://deletefromuser.github.io/tip/2023042702/" rel="nofollow">使用scrcpy在pc上控制android手机</a></li><li>2023-04-25 - <a href="https://deletefromuser.github.io/web/2023042501/" rel="nofollow">spring boot开发记录</a></li><li>2023-04-25 - <a href="https://deletefromuser.github.io/tip/2023042503/" rel="nofollow">使用mkvtoolnix批量去除mkv格式视频外挂字幕</a></li><li>2023-04-25 - <a href="https://deletefromuser.github.io/web/2023042502/" rel="nofollow">使用nginx和ssh tunneling实现通过公网ip访问本地计算机</a></li><li>2023-04-24 - <a href="https://deletefromuser.github.io/bash/2023041801/" rel="nofollow">比较两个目录内的同名文件（后缀yml，xml的文件）的非空行数是否一致</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

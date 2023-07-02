@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2023-06-03 - <a href="https://deletefromuser.github.io/tip/2023060301/" rel="nofollow">office使用记录</a></li><li>2023-06-03 - <a href="https://deletefromuser.github.io/sql/2023060301/" rel="nofollow">sqlserver使用</a></li><li>2023-05-31 - <a href="https://deletefromuser.github.io/watch/2023040101/" rel="nofollow">2023年2季度</a></li><li>2023-05-21 - <a href="https://deletefromuser.github.io/web/2023052101/" rel="nofollow">jenkins使用记录</a></li><li>2023-05-20 - <a href="https://deletefromuser.github.io/web/2023052001/" rel="nofollow">docker使用记录</a></li>
+<li>2023-07-02 - <a href="https://deletefromuser.github.io/web/2023070203/" rel="nofollow">使用Utterances为Hugo添加评论</a></li><li>2023-07-02 - <a href="https://deletefromuser.github.io/tip/2023070201/" rel="nofollow">暴力破解7z加密文件</a></li><li>2023-06-03 - <a href="https://deletefromuser.github.io/tip/2023060301/" rel="nofollow">office使用记录</a></li><li>2023-06-03 - <a href="https://deletefromuser.github.io/sql/2023060301/" rel="nofollow">sqlserver使用</a></li><li>2023-05-31 - <a href="https://deletefromuser.github.io/watch/2023040101/" rel="nofollow">2023年2季度</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

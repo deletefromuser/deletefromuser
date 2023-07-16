@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2023-07-02 - <a href="https://deletefromuser.github.io/web/2023070203/" rel="nofollow">使用Utterances为Hugo添加评论功能</a></li><li>2023-07-02 - <a href="https://deletefromuser.github.io/tip/2023071101/" rel="nofollow">AI提示词记录</a></li><li>2023-07-02 - <a href="https://deletefromuser.github.io/tip/2023070201/" rel="nofollow">暴力破解7z加密文件</a></li><li>2023-06-04 - <a href="https://deletefromuser.github.io/java/2023070801/" rel="nofollow">记一次OOM异常解决</a></li><li>2023-06-03 - <a href="https://deletefromuser.github.io/tip/2023060301/" rel="nofollow">office使用记录</a></li>
+<li>2023-07-16 - <a href="https://deletefromuser.github.io/watch/2023070101/" rel="nofollow">2023年3季度</a></li><li>2023-07-02 - <a href="https://deletefromuser.github.io/web/2023070203/" rel="nofollow">使用Utterances为Hugo添加评论功能</a></li><li>2023-07-02 - <a href="https://deletefromuser.github.io/tip/2023071101/" rel="nofollow">AI提示词记录</a></li><li>2023-07-02 - <a href="https://deletefromuser.github.io/tip/2023070201/" rel="nofollow">暴力破解7z加密文件</a></li><li>2023-06-04 - <a href="https://deletefromuser.github.io/java/2023070801/" rel="nofollow">记一次OOM异常解决</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

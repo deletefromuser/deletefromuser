@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2024-01-06 - <a href="https://deletefromuser.github.io/watch/2024010101/" rel="nofollow">2024年1季度</a></li><li>2024-01-06 - <a href="https://deletefromuser.github.io/read/2024010601/" rel="nofollow">2024年读书记录</a></li><li>2023-12-16 - <a href="https://deletefromuser.github.io/watch/2023100101/" rel="nofollow">2023年4季度</a></li><li>2023-09-24 - <a href="https://deletefromuser.github.io/tip/2023092401/" rel="nofollow">Mega + nginx搭建webdav服务</a></li><li>2023-09-09 - <a href="https://deletefromuser.github.io/jpns/2023090802/" rel="nofollow">日语学习memo</a></li>
+<li>2024-04-04 - <a href="https://deletefromuser.github.io/watch/2024040101/" rel="nofollow">2024年2季度</a></li><li>2024-01-06 - <a href="https://deletefromuser.github.io/watch/2024010101/" rel="nofollow">2024年1季度</a></li><li>2024-01-06 - <a href="https://deletefromuser.github.io/read/2024010601/" rel="nofollow">2024年读书记录</a></li><li>2023-12-16 - <a href="https://deletefromuser.github.io/watch/2023100101/" rel="nofollow">2023年4季度</a></li><li>2023-09-24 - <a href="https://deletefromuser.github.io/tip/2023092401/" rel="nofollow">Mega + nginx搭建webdav服务</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

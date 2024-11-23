@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2024-07-20 - <a href="https://deletefromuser.github.io/watch/2024070101/" rel="nofollow">2024年3季度</a></li><li>2024-04-04 - <a href="https://deletefromuser.github.io/watch/2024040101/" rel="nofollow">2024年2季度</a></li><li>2024-01-06 - <a href="https://deletefromuser.github.io/watch/2024010101/" rel="nofollow">2024年1季度</a></li><li>2024-01-06 - <a href="https://deletefromuser.github.io/read/2024010601/" rel="nofollow">2024年读书记录</a></li><li>2023-12-16 - <a href="https://deletefromuser.github.io/watch/2023100101/" rel="nofollow">2023年4季度</a></li>
+<li>2024-11-22 - <a href="https://deletefromuser.github.io/java/2024112201/" rel="nofollow">控制台出现不明log，如何排查</a></li><li>2024-11-10 - <a href="https://deletefromuser.github.io/watch/2024100101/" rel="nofollow">2024年4季度</a></li><li>2024-07-20 - <a href="https://deletefromuser.github.io/watch/2024070101/" rel="nofollow">2024年3季度</a></li><li>2024-04-04 - <a href="https://deletefromuser.github.io/watch/2024040101/" rel="nofollow">2024年2季度</a></li><li>2024-01-06 - <a href="https://deletefromuser.github.io/watch/2024010101/" rel="nofollow">2024年1季度</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

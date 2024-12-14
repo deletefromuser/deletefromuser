@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2024-11-22 - <a href="https://deletefromuser.github.io/java/2024112201/" rel="nofollow">控制台出现不明log，如何排查</a></li><li>2024-11-22 - <a href="https://deletefromuser.github.io/java/2024112202/" rel="nofollow">测试包含truncate table的方法&lpar;oracle数据库&rpar;</a></li><li>2024-11-10 - <a href="https://deletefromuser.github.io/watch/2024100101/" rel="nofollow">2024年4季度</a></li><li>2024-07-20 - <a href="https://deletefromuser.github.io/watch/2024070101/" rel="nofollow">2024年3季度</a></li><li>2024-04-04 - <a href="https://deletefromuser.github.io/watch/2024040101/" rel="nofollow">2024年2季度</a></li>
+<li>2024-12-14 - <a href="https://deletefromuser.github.io/sql/2024121401/" rel="nofollow">迁移mariadb/mysql数据库到pgsql</a></li><li>2024-11-22 - <a href="https://deletefromuser.github.io/java/2024112201/" rel="nofollow">控制台出现不明log，如何排查</a></li><li>2024-11-22 - <a href="https://deletefromuser.github.io/java/2024112202/" rel="nofollow">测试包含truncate table的方法&lpar;oracle数据库&rpar;</a></li><li>2024-11-10 - <a href="https://deletefromuser.github.io/watch/2024100101/" rel="nofollow">2024年4季度</a></li><li>2024-07-20 - <a href="https://deletefromuser.github.io/watch/2024070101/" rel="nofollow">2024年3季度</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

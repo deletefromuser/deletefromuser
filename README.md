@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2025-02-26 - <a href="https://deletefromuser.github.io/watch/2025010101/" rel="nofollow">2025年1季度</a></li><li>2024-12-14 - <a href="https://deletefromuser.github.io/sql/2024121401/" rel="nofollow">迁移mariadb/mysql数据库到pgsql</a></li><li>2024-11-22 - <a href="https://deletefromuser.github.io/java/2024112201/" rel="nofollow">控制台出现不明log，如何排查</a></li><li>2024-11-22 - <a href="https://deletefromuser.github.io/java/2024112202/" rel="nofollow">测试包含truncate table的方法&lpar;oracle数据库&rpar;</a></li><li>2024-11-10 - <a href="https://deletefromuser.github.io/watch/2024100101/" rel="nofollow">2024年4季度</a></li>
+<li>2025-03-06 - <a href="https://deletefromuser.github.io/read/2025010601/" rel="nofollow">2025年读书记录</a></li><li>2025-02-26 - <a href="https://deletefromuser.github.io/watch/2025010101/" rel="nofollow">2025年1季度</a></li><li>2024-12-14 - <a href="https://deletefromuser.github.io/sql/2024121401/" rel="nofollow">迁移mariadb/mysql数据库到pgsql</a></li><li>2024-11-22 - <a href="https://deletefromuser.github.io/java/2024112201/" rel="nofollow">控制台出现不明log，如何排查</a></li><li>2024-11-22 - <a href="https://deletefromuser.github.io/java/2024112202/" rel="nofollow">测试包含truncate table的方法&lpar;oracle数据库&rpar;</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

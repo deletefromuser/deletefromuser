@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2025-07-06 - <a href="https://deletefromuser.github.io/watch/2025070101/" rel="nofollow">2025年3季度</a></li><li>2025-06-08 - <a href="https://deletefromuser.github.io/tip/2025060801/" rel="nofollow">使用handshake转换视频时利用gpu</a></li><li>2025-04-20 - <a href="https://deletefromuser.github.io/watch/2025040101/" rel="nofollow">2025年2季度</a></li><li>2025-04-19 - <a href="https://deletefromuser.github.io/tip/2025041901/" rel="nofollow">Firefox多用户</a></li><li>2025-03-06 - <a href="https://deletefromuser.github.io/read/2025010601/" rel="nofollow">2025年读书记录</a></li>
+<li>2025-08-20 - <a href="https://deletefromuser.github.io/java/2025082001/" rel="nofollow">使用pdfbox将文字pdf转换为图片pdf</a></li><li>2025-07-06 - <a href="https://deletefromuser.github.io/watch/2025070101/" rel="nofollow">2025年3季度</a></li><li>2025-06-08 - <a href="https://deletefromuser.github.io/tip/2025060801/" rel="nofollow">使用handshake转换视频时利用gpu</a></li><li>2025-04-20 - <a href="https://deletefromuser.github.io/watch/2025040101/" rel="nofollow">2025年2季度</a></li><li>2025-04-19 - <a href="https://deletefromuser.github.io/tip/2025041901/" rel="nofollow">Firefox多用户</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2025-10-06 - <a href="https://deletefromuser.github.io/watch/2025100101/" rel="nofollow">2025年4季度</a></li><li>2025-08-20 - <a href="https://deletefromuser.github.io/java/2025082001/" rel="nofollow">使用pdfbox将文字pdf转换为图片pdf</a></li><li>2025-07-06 - <a href="https://deletefromuser.github.io/watch/2025070101/" rel="nofollow">2025年3季度</a></li><li>2025-06-08 - <a href="https://deletefromuser.github.io/tip/2025060801/" rel="nofollow">使用handshake转换视频时利用gpu</a></li><li>2025-04-20 - <a href="https://deletefromuser.github.io/watch/2025040101/" rel="nofollow">2025年2季度</a></li>
+<li>2026-01-04 - <a href="https://deletefromuser.github.io/watch/2026010401/" rel="nofollow">2026年1季度</a></li><li>2025-10-06 - <a href="https://deletefromuser.github.io/watch/2025100101/" rel="nofollow">2025年4季度</a></li><li>2025-08-20 - <a href="https://deletefromuser.github.io/java/2025082001/" rel="nofollow">使用pdfbox将文字pdf转换为图片pdf</a></li><li>2025-07-06 - <a href="https://deletefromuser.github.io/watch/2025070101/" rel="nofollow">2025年3季度</a></li><li>2025-06-08 - <a href="https://deletefromuser.github.io/tip/2025060801/" rel="nofollow">使用handshake转换视频时利用gpu</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

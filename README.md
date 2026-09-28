@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2026-01-04 - <a href="https://deletefromuser.github.io/watch/2026010401/" rel="nofollow">2026年1季度</a></li><li>2025-10-06 - <a href="https://deletefromuser.github.io/watch/2025100101/" rel="nofollow">2025年4季度</a></li><li>2025-08-20 - <a href="https://deletefromuser.github.io/java/2025082001/" rel="nofollow">使用pdfbox将文字pdf转换为图片pdf</a></li><li>2025-07-06 - <a href="https://deletefromuser.github.io/watch/2025070101/" rel="nofollow">2025年3季度</a></li><li>2025-06-08 - <a href="https://deletefromuser.github.io/tip/2025060801/" rel="nofollow">使用handshake转换视频时利用gpu</a></li>
+<li>2026-09-28 - <a href="https://deletefromuser.github.io/tip/2026092801/" rel="nofollow">win10/11 家庭版中使用Hyper-V虚拟机</a></li><li>2026-08-29 - <a href="https://deletefromuser.github.io/watch/2026070101/" rel="nofollow">2026年3季度</a></li><li>2026-04-19 - <a href="https://deletefromuser.github.io/watch/2026040101/" rel="nofollow">2026年2季度</a></li><li>2026-02-02 - <a href="https://deletefromuser.github.io/read/2026060201/" rel="nofollow">2026年读书记录</a></li><li>2026-01-04 - <a href="https://deletefromuser.github.io/watch/2026010401/" rel="nofollow">2026年1季度</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

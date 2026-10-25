@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2026-09-28 - <a href="https://deletefromuser.github.io/tip/2026092801/" rel="nofollow">win10/11 家庭版中使用Hyper-V虚拟机</a></li><li>2026-08-29 - <a href="https://deletefromuser.github.io/watch/2026070101/" rel="nofollow">2026年3季度</a></li><li>2026-04-19 - <a href="https://deletefromuser.github.io/watch/2026040101/" rel="nofollow">2026年2季度</a></li><li>2026-02-02 - <a href="https://deletefromuser.github.io/read/2026060201/" rel="nofollow">2026年读书记录</a></li><li>2026-01-04 - <a href="https://deletefromuser.github.io/watch/2026010401/" rel="nofollow">2026年1季度</a></li>
+<li>2026-10-18 - <a href="https://deletefromuser.github.io/watch/2026100101/" rel="nofollow">2026年4季度</a></li><li>2026-09-28 - <a href="https://deletefromuser.github.io/pgm/2026092801/" rel="nofollow">win10/11 家庭版中使用Hyper-V虚拟机</a></li><li>2026-08-29 - <a href="https://deletefromuser.github.io/watch/2026070101/" rel="nofollow">2026年3季度</a></li><li>2026-04-19 - <a href="https://deletefromuser.github.io/watch/2026040101/" rel="nofollow">2026年2季度</a></li><li>2026-02-02 - <a href="https://deletefromuser.github.io/read/2026060201/" rel="nofollow">2026年读书记录</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists

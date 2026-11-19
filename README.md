@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-<li>2026-11-15 - <a href="https://deletefromuser.github.io/pgm/2026111501_java-rsa-badpadding/" rel="nofollow">Java RSA 加密 BadPaddingException 修复</a></li><li>2026-10-18 - <a href="https://deletefromuser.github.io/watch/2026100101/" rel="nofollow">2026年4季度</a></li><li>2026-09-28 - <a href="https://deletefromuser.github.io/pgm/2026092801/" rel="nofollow">win10/11 家庭版中使用Hyper-V虚拟机</a></li><li>2026-08-29 - <a href="https://deletefromuser.github.io/watch/2026070101/" rel="nofollow">2026年3季度</a></li><li>2026-04-19 - <a href="https://deletefromuser.github.io/watch/2026040101/" rel="nofollow">2026年2季度</a></li>
+<li>2026-11-16 - <a href="https://deletefromuser.github.io/pgm/2026111701/" rel="nofollow">Collections.singletonList 使用注意事项</a></li><li>2026-11-15 - <a href="https://deletefromuser.github.io/pgm/2026111501_java-rsa-badpadding/" rel="nofollow">Java RSA 加密 BadPaddingException 修复</a></li><li>2026-10-18 - <a href="https://deletefromuser.github.io/watch/2026100101/" rel="nofollow">2026年4季度</a></li><li>2026-09-28 - <a href="https://deletefromuser.github.io/pgm/2026092801/" rel="nofollow">win10/11 家庭版中使用Hyper-V虚拟机</a></li><li>2026-08-29 - <a href="https://deletefromuser.github.io/watch/2026070101/" rel="nofollow">2026年3季度</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 # Read Book Lists
